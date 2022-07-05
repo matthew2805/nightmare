@@ -5,14 +5,3 @@ some song playing 1
 some song playing 1
 some song playing 1
 aboab
-<<<<<<< HEAD
-||||||| 430f190
-The ship glides gently on the waves
-As day turns into night
-=======
-The ship glides gently on the waves
-As day turns into night
-comm 1
-comm 1
-comm 2
->>>>>>> feature
